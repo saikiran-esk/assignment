@@ -88,3 +88,20 @@ Accepts user input
 Sends request to API
 
 Displays response
+
+# Screenshots
+
+Screenshots of working outputs are stored in the screenshots/ folder.
+
+Examples:
+
+
+Groq output
+
+Cohere output
+
+Hugging Face output
+
+Gemini output
+
+Ollama output
