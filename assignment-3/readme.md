@@ -125,6 +125,16 @@ assignment-3/
 
 │
 
+# Features
+
+Uses environment variables for API keys (secure)
+
+Supports multiple AI providers
+
+Simple command-line interface
+
+Includes error handling
+
 ├── requirements.txt 
 
 ├── README.md 
