@@ -125,6 +125,13 @@ assignment-3/
 
 │
 
+├── requirements.txt 
+
+├── README.md 
+
+└── screenshots/
+
+
 # Features
 
 Uses environment variables for API keys (secure)
@@ -135,8 +142,3 @@ Simple command-line interface
 
 Includes error handling
 
-├── requirements.txt 
-
-├── README.md 
-
-└── screenshots/
